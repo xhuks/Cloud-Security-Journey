@@ -1,2 +1,2 @@
 # Cloud-Security-Journey
-A documentation of my Cloud Sedcurity journey
+A documentation of my Cloud Security journey
